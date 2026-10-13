@@ -26,7 +26,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of the implemented features:
 
-<img src='REPLACE_WITH_YOUR_GIF_LINK' title='Video Walkthrough' width='300' alt='Video Walkthrough' />
+(https://youtube.com/shorts/FHYJK4jDqUw?feature=share)[Watch The Video]
 
 <!-- Replace the src above with a link to your .gif, or drag the .gif into this README on GitHub -->
 
