@@ -26,7 +26,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of the implemented features:
 
-(https://youtube.com/shorts/FHYJK4jDqUw?feature=share) [Watch The Video]
+(https://youtube.com/shorts/FHYJK4jDqUw?feature=share)[Watch The Video]
 
 <!-- Replace the src above with a link to your .gif, or drag the .gif into this README on GitHub -->
 
