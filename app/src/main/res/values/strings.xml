@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SimpleCounter</string>
+    <string name="zero">0</string>
+    <string name="add_1">Add 1</string>
+    <string name="add_2">Add 2</string>
+    <string name="upgrade_to_add_2">Upgrade to Add 2</string>
+    <string name="upgrade_toast">Upgrade unlocked! Every tap now adds 2.</string>
+    <string name="tap_value_start">+1 per tap</string>
+    <string name="tap_value_text">+%1$d per tap</string>
+    <string name="goal_text">Goal: %1$d taps</string>
+    <string name="goals_reached_text">Goals reached: %1$d</string>
+    <string name="goal_reached_toast">Goal reached: %1$d taps!</string>
+</resources>

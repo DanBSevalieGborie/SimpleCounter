@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Space theme background: a night-sky gradient with scattered stars on top -->
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape android:shape="rectangle">
+            <gradient
+                android:angle="270"
+                android:endColor="@color/space_bottom"
+                android:startColor="@color/space_top" />
+        </shape>
+    </item>
+    <item android:drawable="@drawable/stars" />
+</layer-list>

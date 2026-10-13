@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Small white dots used as stars in the background -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="200dp"
+    android:height="400dp"
+    android:viewportWidth="200"
+    android:viewportHeight="400">
+    <path
+        android:fillColor="#CCFFFFFF"
+        android:pathData="M20,30m-1.5,0a1.5,1.5 0,1 0,3 0a1.5,1.5 0,1 0,-3 0 M70,15m-1,0a1,1 0,1 0,2 0a1,1 0,1 0,-2 0 M150,40m-1.5,0a1.5,1.5 0,1 0,3 0a1.5,1.5 0,1 0,-3 0 M185,90m-1,0a1,1 0,1 0,2 0a1,1 0,1 0,-2 0 M35,110m-1,0a1,1 0,1 0,2 0a1,1 0,1 0,-2 0 M110,75m-1,0a1,1 0,1 0,2 0a1,1 0,1 0,-2 0 M12,180m-1.5,0a1.5,1.5 0,1 0,3 0a1.5,1.5 0,1 0,-3 0 M175,170m-1.5,0a1.5,1.5 0,1 0,3 0a1.5,1.5 0,1 0,-3 0 M60,250m-1,0a1,1 0,1 0,2 0a1,1 0,1 0,-2 0 M140,240m-1,0a1,1 0,1 0,2 0a1,1 0,1 0,-2 0 M25,310m-1,0a1,1 0,1 0,2 0a1,1 0,1 0,-2 0 M95,330m-1.5,0a1.5,1.5 0,1 0,3 0a1.5,1.5 0,1 0,-3 0 M165,300m-1,0a1,1 0,1 0,2 0a1,1 0,1 0,-2 0 M45,380m-1.5,0a1.5,1.5 0,1 0,3 0a1.5,1.5 0,1 0,-3 0 M130,385m-1,0a1,1 0,1 0,2 0a1,1 0,1 0,-2 0 M190,360m-1,0a1,1 0,1 0,2 0a1,1 0,1 0,-2 0" />
+</vector>
